@@ -28,7 +28,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </p>
 <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>
