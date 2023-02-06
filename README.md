@@ -15,7 +15,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I’m working as a Software Engineer and contributing to frontend and api intergration for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Github](https://img.shields.io/github/followers/Sorabhkumar-dev?label=Follow&style=social)](https://github.com/vojeer)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](/vojeer-ansari)
 
 ---
 
